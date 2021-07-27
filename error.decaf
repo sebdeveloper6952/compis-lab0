@@ -1,0 +1,12 @@
+class Program {
+    int a = 0;
+    boolean b = false;
+    struct my_struct {
+        int a;
+        char b;
+    };
+
+    void main() {
+        return -1;
+    }
+}
